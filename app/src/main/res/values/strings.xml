@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recycler</string>
+    <string name="Distance_button">Go!</string>
+    <string name="model_button">Search</string>
+</resources>

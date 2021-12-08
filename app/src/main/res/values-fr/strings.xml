@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">recycler</string>
+    <string name="Distance_button">Aller</string>
+    <string name="model_button">chercher</string>
+</resources>
